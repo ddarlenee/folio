@@ -1,4 +1,23 @@
 <!DOCTYPE html>
 <html>
-  Good morning!
+  <head>
+    <meta charset = "utf-8" />
+    <title>computing</title>
+  </head>
+  <body>
+    <h1>My Portfolio</h1>
+    <p>h2 computing student</p>
+    <h2>Education</h2>
+    <ul>
+      <li><a href = "">asrjc</li>
+      <li>cchy</li>
+      <li>jps</li>
+    </ul>
+    <img src = "" alt = ""></img>
+    <form>
+      <label for = "text">Enter your text:</label>
+      <input type = "text"> id = "text" name = "text">
+      <button type = "submit">Send me changes</button>
+    </form>
+  </body>
 </html>
