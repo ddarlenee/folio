@@ -1,9 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-   
+    <meta charset = "utf-8" />
+    <title>life @ asr</title>
   </head>
   <body>
-    
+    <h1>My Portfolio</h1>
+    <p>h2 computing student</p>
+    <h2>Education</h2>
+    <ul>
+      <li><a href = "">asrjc</li>
+      <li>cchy</li>
+      <li>jps</li>
+    </ul>
+    <img src = "" alt = "">
+    <form>
+      <label for = "data">Data:</label>
+      <input type = "text"> id = "data" name = "data">
+      <button>input data</button>
+    </form>
+    <h3>My favourite emoji: &#x1F600; &#128512; </h3>
   </body>
 </html>
